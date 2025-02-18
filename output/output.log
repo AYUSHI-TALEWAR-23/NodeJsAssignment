@@ -1,2 +1,2 @@
-File created successfully
-Hello this is a promise message
+File created successfully //OUTPUT For STEP 4: Create a file using fs module and async/await.
+Hello this is a promise message //OUTPUT For STEP 2: create a promise to display a message and call the promise.
